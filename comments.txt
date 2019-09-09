@@ -1,0 +1,35 @@
+ 
+ Sports: https://en.wikipedia.org/wiki/Sport
+ 1934 FIFA World Cup : https://en.wikipedia.org/wiki/1934_FIFA_World_Cup
+ 1936 Summer Olympics: https://en.wikipedia.org/wiki/1936_Summer_Olympics
+ 1936 Winter Olympics: https://en.wikipedia.org/wiki/1936_Winter_Olympics
+ 2006 FIFA World Cup: https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+ 2011 Cricket World Cup Final: https://en.wikipedia.org/wiki/2011_Cricket_World_Cup_Final
+ 2013–14 Premier League: https://en.wikipedia.org/wiki/2013%E2%80%9314_Premier_League
+ 2014 FIFA World Cup: https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+ 2015 FIFA Womens World Cup: https://en.wikipedia.org/wiki/2015_FIFA_Women%27s_World_Cup
+ 2015–16 Bundesliga: https://en.wikipedia.org/wiki/2015%E2%80%9316_Bundesliga
+ Ancient Olympic Games: https://en.wikipedia.org/wiki/Ancient_Olympic_Games
+ 
+ Computer programming: https://en.wikipedia.org/wiki/Computer_programming
+ ACCU (organisation): https://en.wikipedia.org/wiki/ACCU_(organisation)
+ ACM Computing Classification System: https://en.wikipedia.org/wiki/ACM_Computing_Classification_System
+ Acceptance test–driven development: https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development
+ Adaptive software development: https://en.wikipedia.org/wiki/Adaptive_software_development
+ Adele Goldstine: https://en.wikipedia.org/wiki/Adele_Goldstine
+ Agile software development:https://en.wikipedia.org/wiki/Agile_software_development
+ Alan Kay: https://en.wikipedia.org/wiki/Alan_Kay
+ Algorithm: https://en.wikipedia.org/wiki/Algorithm
+ Algorithm design:https://en.wikipedia.org/wiki/Algorithm#Design
+ Algorithmic efficiency: https://en.wikipedia.org/wiki/Algorithmic_efficiency
+ Allen Downey: https://en.wikipedia.org/wiki/Allen_B._Downey
+ Analysis of algorithms: https://en.wikipedia.org/wiki/Analysis_of_algorithms
+ Analytical Engine: https://en.wikipedia.org/wiki/Analytical_Engine
+ Application-release automation: https://en.wikipedia.org/wiki/Application-release_automation
+ Big O notation: https://en.wikipedia.org/wiki/Big_O_notation
+ Binary numeral system: https://en.wikipedia.org/wiki/Binary_number
+ Buffer overflow: https://en.wikipedia.org/wiki/Buffer_overflow
+ Build automation: https://en.wikipedia.org/wiki/Build_automation
+ Bytecode: https://en.wikipedia.org/wiki/Bytecode
+ COBOL: https://en.wikipedia.org/wiki/COBOL
+ C (programming language): https://en.wikipedia.org/wiki/C_(programming_language)
