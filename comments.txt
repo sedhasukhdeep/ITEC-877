@@ -47,6 +47,9 @@ newdata/composite.txt
 0.3495 0.4057
 0.3495 0.4057
 
+These scores are close to what author has specified in the original paper, a score of 0.5 means a random guess, whereas a score of 0.0 means perfectly segmented document. Our achieved pk score is 0.3495 and  WinDiff score 0.4057 respectively.
+
+
 Task 3: Pinging the websites
 ubuntu@ip-172-31-92-18:~/experiments/ITEC-877$ ping -c 1 www.theculinaryacademy.org && curl http://checkip.amazonaws.com
 PING theculinaryacademy.org (192.185.184.189) 56(84) bytes of data.
